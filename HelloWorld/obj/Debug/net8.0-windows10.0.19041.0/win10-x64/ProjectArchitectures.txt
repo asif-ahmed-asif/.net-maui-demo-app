@@ -1,1 +1,0 @@
-D:\Masjid Solutions\HelloWorld\HelloWorld\HelloWorld.csproj;x64
